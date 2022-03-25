@@ -731,6 +731,12 @@ h3 {
   font-size: 3em;
 }
 
+.h5 {
+  font-size: 1.25em;
+  padding-bottom:1em ;
+  padding-top: 1em;
+}
+
 .book-image {
   position: absolute;
   max-width: 22em;
